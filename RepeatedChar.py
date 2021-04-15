@@ -10,5 +10,5 @@ def mostRepeated(string):
         if freqCounter[key] > count: 
             count = freqCounter[key]
             char = key 
-   return char 
+    return char 
 mostRepeated('Hellooo!!')
